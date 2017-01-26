@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo03", "Demo03\Demo03.csproj", "{DCE1C838-649E-48E2-BA8B-8FB4B1D51799}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pesukone", "Pesukone\Pesukone.csproj", "{092B3A30-23DA-4366-806E-759B06FB35DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DCE1C838-649E-48E2-BA8B-8FB4B1D51799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCE1C838-649E-48E2-BA8B-8FB4B1D51799}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCE1C838-649E-48E2-BA8B-8FB4B1D51799}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCE1C838-649E-48E2-BA8B-8FB4B1D51799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092B3A30-23DA-4366-806E-759B06FB35DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092B3A30-23DA-4366-806E-759B06FB35DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092B3A30-23DA-4366-806E-759B06FB35DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092B3A30-23DA-4366-806E-759B06FB35DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
